@@ -13,6 +13,9 @@
 </p>
 <br>
 
+![image](https://github.com/MateusSantosF/Order-BankSlip/assets/62969620/2cf1ffd9-d77d-4baf-96a2-19b0728a518c)
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
