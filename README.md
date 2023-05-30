@@ -18,6 +18,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
+- Docker
+- AWS EC2
 - EJS
 - Express
 - Bootstrap 4
