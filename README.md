@@ -1,2 +1,37 @@
-# OrderBankSlip
-AplicaÁ„o que realiza a integraÁ„o com a API da empresa EfÌ (Gerencianet) para a geraÁ„o de boletos banc·rios. A aplicaÁ„o oferece aos usu·rios a possibilidade de criar pedidos, especificando o valor, o nome e a quantidade dos produtos desejados. Em seguida, a aplicaÁ„o gera um boleto banc·rio ou um QRCode, facilitando o pagamento do pedido.
+<h1 align="center">
+ OrderBankSlipApp
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licen√ßa">Licen√ßa</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+<br>
+
+## üöÄ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- JavaScript
+- EJS
+- Express
+- Bootstrap 4
+
+## üíª Projeto
+
+OrderBankSlipApp √© um projeto que realiza a integra√ß√£o com a API da empresa Ef√≠ (Gerencianet) para a gera√ß√£o de boletos banc√°rios. A aplica√ß√£o oferece aos usu√°rios a possibilidade de criar pedidos, especificando o valor, o nome e a quantidade dos produtos desejados. Em seguida, a aplica√ß√£o gera um boleto banc√°rio ou um QRCode, facilitando o pagamento do pedido.
+
+## :memo: Licen√ßa
+
+Esse projeto est√° sob a licen√ßa MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+<h5 align="center">
+ Feito com ‚ô• by Mateus
+</h5>
